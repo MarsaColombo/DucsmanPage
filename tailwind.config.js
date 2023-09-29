@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}", "./dist/**/*.{html,js}"],
+  content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
       Italianno: ["Italianno", "cursive"],
