@@ -7,7 +7,7 @@
 
       "designation": "Costume élégant en laine pour hommes",
 
-      "img": "../public/CostumeLaine.png"
+      "img": "./CostumeLaine.png"
     },
 
     {
@@ -17,7 +17,7 @@
 
       "designation": "Robe de soirée longue pour femmes",
 
-      "img": "../public/RobeSoiree.png"
+      "img": "./RobeSoiree.png"
     },
 
     {
@@ -27,7 +27,7 @@
 
       "designation": "Chemise décontractée en coton pour hommes",
 
-      "img": "../public/ChemiseCoton.png"
+      "img": "./ChemiseCoton.png"
     },
 
     {
@@ -37,7 +37,7 @@
 
       "designation": "Jupe plissée midi pour femmes",
 
-      "img": "../public/JupePlissee.png"
+      "img": "./JupePlissee.png"
     },
 
     {
@@ -47,7 +47,7 @@
 
       "designation": "Veste en tweed pour hommes",
 
-      "img": "../public/VesteTweed.png"
+      "img": "./VesteTweed.png"
     },
 
     {
@@ -57,7 +57,7 @@
 
       "designation": "Pantalon de costume ajusté pour hommes",
 
-      "img": "../public/PantalonCostume.png"
+      "img": "./PantalonCostume.png"
     },
 
     {
@@ -67,7 +67,7 @@
 
       "designation": "Blouse en soie légère pour femmes",
 
-      "img": "../public/BlouseSoie.png"
+      "img": "./BlouseSoie.png"
     },
 
     {
@@ -77,7 +77,7 @@
 
       "designation": "Manteau en laine pour femmes",
 
-      "img": "../public/ManteauLaine.png"
+      "img": "./ManteauLaine.png"
     },
 
     {
@@ -87,7 +87,7 @@
 
       "designation": "Cravate en soie haut de gamme",
 
-      "img": "../public/CravatteSoie.png"
+      "img": "./CravatteSoie.png"
     },
 
     {
@@ -97,7 +97,7 @@
 
       "designation": "Chaussures en cuir pour hommes",
 
-      "img": "../public/ChausssureCuire.png"
+      "img": "./ChausssureCuire.png"
     }
   ]
 }
